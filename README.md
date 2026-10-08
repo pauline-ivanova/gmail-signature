@@ -1,5 +1,9 @@
 ﻿# Polina Gmail signature assets
 
-Public image host for Polina Ivanova email signature (used by Gmail `<img src>`).
+Public image host for [Polina Ivanova](https://github.com/pauline-ivanova) email signature.
 
-Do not put private job-search data here — images only.
+Used by Gmail `<img src>` via jsDelivr:
+
+`https://cdn.jsdelivr.net/gh/pauline-ivanova/gmail-signature@main/<filename>`
+
+Images only — no private job-search data.
